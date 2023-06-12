@@ -1,3 +1,3 @@
-# My React projects
+# My React project
 
-here all of my React projects that I have been doing while learning in Udemy Course 
+here is one of my react projects that show list of the user expense with charts that calculate the amount spent every month  
